@@ -1,4 +1,4 @@
-# Facebook Page Likes Quicktrack
+# Facebook Page Likes Tracker
 
  A Swift Playground that tracks the likes of a Facebook Page with HTML.
 
