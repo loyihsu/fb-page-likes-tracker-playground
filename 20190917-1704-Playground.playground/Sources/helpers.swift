@@ -2,7 +2,7 @@ import Foundation
 
 let formatter = DateFormatter()
 
-public func getCurrrentDateTime() -> String {
+public func getCurrentDateTime() -> String {
     let date = Date()
     formatter.dateFormat = "YYYY/MM/dd (HH:mm:ss)"
     return "\(formatter.string(from: date))"
